@@ -88,8 +88,6 @@ substitutions:
   _AR_HOSTNAME: europe-west2-docker.pkg.dev
   _PLATFORM: managed
   _SERVICE_NAME: app-mod-php
-  REPO_NAME: app-mod-php-repo
-  PROJECT_ID: dev-cloud-test-454313
   _EXECUTION_ENVIRONMENT: 'rgc/cloudbuild'
   #_GITHUB_USER: Friends-of-Ricc # change your your own, eg 'gregorio'
   _GITHUB_USER: mxo96 # change your your own, eg 'gregorio'
